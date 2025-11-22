@@ -41,16 +41,16 @@ not as a bag of definitions, but as a language of forms and relationships.
 
 ## Foundations
 
-1. **Objects and Morphisms**
-   - Basic units of structure
-    
-2. **Hard vs Soft Categories**
-   - Hard: index-like, atomic, non-collapsible
-   - Soft: relational, collapsible by external observation
+1. **Objects**
+   - Uniqueness and universality
 
-3. **Shape**
+2. **Morphisms**
    - The shape itself is the whole meaning: nothing hides behind it
    - Pure mapping
+
+3. **Hard vs Soft Categories**
+   - Hard: index-like, atomic, non-collapsible
+   - Soft: relational, collapsible by external observation
 
 4. **Functors and Natural Transformations**
    - Structure-preserving maps  
@@ -58,6 +58,7 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Representation via free generation  
    - Natural transformations as comparisons between functors with the same source and target  
    - Dependence on the target category: what counts as “structure” is determined by where you map into
+
 
 ---
 
