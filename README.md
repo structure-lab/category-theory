@@ -48,9 +48,9 @@ not as a bag of definitions, but as a language of forms and relationships.
    - The shape itself is the whole meaning: nothing hides behind it
    - Pure mapping
 
-3. **Hard vs Soft Categories**
-   - Hard: index-like, atomic, non-collapsible
-   - Soft: relational, collapsible by external observation
+3. **Categories**
+   - Hard categories: index-like, atomic, non-collapsible
+   - Soft categories: relational, collapsible by external observation
 
 4. **Functors and Natural Transformations**
    - Structure-preserving maps  
