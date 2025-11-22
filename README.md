@@ -73,7 +73,7 @@ This repository contains:
 
 ## Yoneda Lemma
 
-1. **You Inside Me (너 안에 나)**
+1. **You Inside Me**
    - The number of ways you fit into me is the number of times you appear inside me
    - Concretely: how many suitable maps from one object into another live inside a Hom-set
 
