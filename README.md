@@ -95,9 +95,10 @@ not as a bag of definitions, but as a language of forms and relationships.
    - NNO (Natural Numbers Object)
 
 3. **Forgetful Functors**
+   - Initiality
    - Free groups and Z3
 
-4. **Adjoint Functors**
+5. **Adjoint Functors**
 
 ---
 
