@@ -86,6 +86,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 1. **Free Generation**
    - Uniqueness
    - Number category (in Lawvere’s sense)
+   - No quotient
 
 2. **Structure as Form**
    - Infinity
