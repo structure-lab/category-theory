@@ -58,14 +58,17 @@ This repository contains:
    - Uniqueness
    - Number category (in Lawvere’s sense)
 
-2. **NNO (Natural Numbers Object)**
+2. **Structure as Form**
    - Infinity
-   - Expressing structure as form
+   - Magma
+   - Monoid
+   - Free group
+   - NNO (Natural Numbers Object)
 
-3. **Free Groups and Z3**
+3. **Forgetful Functors**
+   - Free groups and Z3
 
 4. **Adjoint Functors**
-
 ---
 
 ## Yoneda Lemma
