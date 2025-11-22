@@ -3,11 +3,39 @@
 A structured and intuitive exploration of category theory —  
 functors, natural transformations, Yoneda lemma, limits, colimits, and more.
 
-This repository contains:
-- Clear explanations
-- Intuitive stories
-- Visual diagrams
-- Connections to abstract algebra and linear algebra
+This repository is part of the **Structure Lab** project.
+
+---
+
+## What this repository contains
+
+- Clear explanations  
+- Intuitive stories  
+- Visual diagrams  
+- Connections to abstract algebra and linear algebra  
+
+**Goal:** build an intuitive “structure-first” view of category theory,  
+not as a bag of definitions, but as a language of forms and relationships.
+
+---
+
+## Who is this for?
+
+- Learners who know basic **set theory / functions / algebra**  
+- People who have seen category theory names (functor, natural transformation, Yoneda…)  
+  but want **intuition and pictures**, not just symbols  
+- Anyone who suspects that “structure” is the real protagonist behind many areas of math  
+
+---
+
+## Table of Contents
+
+- [Foundations](#foundations)
+- [Limits](#limits)
+- [Free Generation and Adjunctions](#free-generation-and-adjunctions)
+- [Yoneda Lemma](#yoneda-lemma)
+- [🧩 Philosophy & Structure](#philosophy--structure)
+- [🧪 Experiments](#experiments)
 
 ---
 
@@ -69,12 +97,14 @@ This repository contains:
    - Free groups and Z3
 
 4. **Adjoint Functors**
+
 ---
 
 ## Yoneda Lemma
 
-1. **You Inside Me**
-   - The number of ways you fit into me is the number of times you appear inside me
+1. **Shapes Within Shapes**
+   - Think of a small shape sitting inside a bigger shape
+   - The Yoneda viewpoint: the number of ways one object sits inside another
    - Concretely: how many suitable maps from one object into another live inside a Hom-set
 
 2. **Yoneda Embedding**
@@ -93,8 +123,6 @@ This repository contains:
 Category theory is the language of structures.  
 It reveals patterns behind algebra, topology, logic, and computation.
 
-This repository is part of the **Structure Lab** project.
-
 ---
 
 ## 🧪 Experiments
@@ -104,3 +132,4 @@ This repository is part of the **Structure Lab** project.
 - Computation examples
 
 More coming soon.
+
