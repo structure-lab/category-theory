@@ -11,31 +11,48 @@ This repository contains:
 
 ---
 
-## 📘 Table of Contents
+## Foundations
 
-### 1. Foundations
-- [What is a Category?](./docs/what-is-a-category.md)
-- [Objects and Morphisms](./docs/objects-and-morphisms.md)
-- [Compositions & Identity](./docs/composition-identity.md)
+1. **Objects and Morphisms**
+   - Basic units of structure
+    
+2. **Hard vs Soft Categories**
+   - Hard: index-like, atomic, non-collapsible
+   - Soft: relational, collapsible by external observation
 
-### 2. Functors
-- [Functors as Observers](./docs/functors-as-observers.md)
-- [Covariant vs Contravariant](./docs/covariant-contravariant.md)
+3. **Shape**
+   - Pure arrow-patterns
+   - Graphs + composition
+   - Pattern as the essence of structure
 
-### 3. Natural Transformations
-- [Intuition of Naturality](./docs/naturality-intuition.md)
-- [Commutative Diagrams](./docs/commutative-diagrams.md)
-
-### 4. Yoneda
-- [Yoneda Elevator](./docs/yoneda-elevator.md)
-- [The Yoneda Lemma](./docs/yoneda-lemma.md)
-
-### 5. Limits & Colimits
-- [Universal Properties](./docs/universal-properties.md)
-- [Limits](./docs/limits.md)
-- [Colimits](./docs/colimits.md)
+4. **Functors**
+   - Structure-preserving maps  
+   - What does it mean for a functor to preserve structure?  
+   - Representation via free generation
 
 ---
+
+
+## Limits
+
+1. **Cones and Constant Functors**
+   - The index category as a standard to be reproduced
+   - Maximum image: the index category drawn inside a category without any identifications
+   - Minimum image: the index category collapsed to a single point via a constant functor
+
+2. **Universal Property**
+   - The “best” or most universal cone
+   - Uniqueness up to a unique morphism
+
+3. **Examples of Limits**
+   - **Terminal objects**: limits of empty diagrams
+   - **Initial objects**: colimits of empty diagrams
+   - **Products**: binary products as limits, with projections as legs of a universal cone
+   - **Equalizers**: limits of parallel pairs, enforcing equality via a universal condition
+
+
+
+
 
 ## 🧩 Philosophy & Structure
 
