@@ -60,7 +60,7 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Dependence on the target category: what counts as “structure” is determined by where you map into
 
 5. **Duality**
-   -Same shape, opposite direction
+   - Same shape, opposite direction
 
 ---
 
