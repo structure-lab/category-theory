@@ -61,6 +61,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 
 5. **Duality**
    - Same shape, opposite direction
+   - Contravariance
 
 ---
 
