@@ -59,6 +59,8 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Natural transformations as comparisons between functors with the same source and target  
    - Dependence on the target category: what counts as “structure” is determined by where you map into
 
+5. **Duality**
+   -Same shape, opposite direction
 
 ---
 
