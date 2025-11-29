@@ -21,8 +21,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 
 ## Who is this for?
 
-- Learners who know basic **set theory / functions / algebra**  
-- People who have seen category theory names (functor, natural transformation, Yoneda…)  
+- Learners who know basic **set theory / functions / algebra** - People who have seen category theory names (functor, natural transformation, Yoneda…)  
   but want **intuition and pictures**, not just symbols  
 - Anyone who suspects that “structure” is the real protagonist behind many areas of math  
 
@@ -31,6 +30,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 ## Table of Contents
 
 - [Foundations](#foundations)
+- [Index Categories](#index-categories)
 - [Limits](#limits)
 - [Free Generation and Adjunctions](#free-generation-and-adjunctions)
 - [Yoneda Lemma](#yoneda-lemma)
@@ -62,6 +62,28 @@ not as a bag of definitions, but as a language of forms and relationships.
 5. **Duality**
    - Same shape, opposite direction
    - Contravariance
+
+---
+
+## Index Categories
+
+1. **Sum (Coproduct)**
+   - THE NUMBER ONE
+   - Not overlapping or decomposable
+   - To “constitute” a category
+
+2. **Product**
+   - Sum vs. Product: Which comes first?
+   - One yet Two
+    
+3. **Exponential Object (Function Space)**
+   - Functor Category
+   - Generalized Element
+
+4. **Currying**
+   - Diagonal Functor
+   - Let's build a table
+   - Concurrency into Sequentiality
 
 ---
 
@@ -102,7 +124,7 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Initiality
    - Free groups and Z3
 
-5. **Adjoint Functors**
+4. **Adjoint Functors**
 
 ---
 
@@ -138,4 +160,3 @@ It reveals patterns behind algebra, topology, logic, and computation.
 - Computation examples
 
 More coming soon.
-
