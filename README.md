@@ -62,6 +62,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 5. **Duality**
    - Same shape, opposite direction
    - Contravariance
+   - Point of view (sum vs product)
 
 ---
 
@@ -78,11 +79,11 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Tensor
     
 3. **Exponential Object (Function Space)**
-   - Functor Category
-   - Generalized Element
+   - Functor category
+   - Generalized element
 
 4. **Currying**
-   - Diagonal Functor
+   - Diagonal functor
    - Let's build a table
    - Concurrency into Sequentiality
 
