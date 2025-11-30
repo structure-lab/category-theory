@@ -75,6 +75,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 2. **Product**
    - Sum vs. Product: Which comes first?
    - One yet Two
+   - Tensor
     
 3. **Exponential Object (Function Space)**
    - Functor Category
