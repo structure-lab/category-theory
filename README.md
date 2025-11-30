@@ -128,7 +128,7 @@ not as a bag of definitions, but as a language of forms and relationships.
 
 4. **Adjoint Functors**
    - Left adjoint vs Right adjoint (Constrction vs Analasys)
-   - Triangle adjunction
+   - Triple adjunction
 
 ---
 
