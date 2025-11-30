@@ -127,7 +127,7 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Free groups and Z3
 
 4. **Adjoint Functors**
-   - Left adjoint vs Right adjoint (Constrction vs analasys)
+   - Left adjoint vs Right adjoint (Constrction vs Analasys)
    - Triangle adjunction
 
 ---
