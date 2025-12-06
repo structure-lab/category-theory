@@ -63,6 +63,11 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Same shape, opposite direction
    - Contravariance
    - Point of view (sum vs product)
+  
+6. **Universality**
+    - **Epimorphism**  
+    - **Monomorphism**  
+    - **Distortion-free**
 
 ---
 
