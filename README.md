@@ -45,8 +45,9 @@ not as a bag of definitions, but as a language of forms and relationships.
    - Uniqueness and universality
 
 2. **Morphisms**
-   - The shape itself is the whole meaning: nothing hides behind it
-   - Pure mapping
+   - The shape itself 
+   - Equality
+   - Mono or Epi
 
 3. **Categories**
    - Hard categories: index-like, atomic, non-collapsible
